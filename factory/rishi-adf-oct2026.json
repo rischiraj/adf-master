@@ -1,0 +1,15 @@
+{
+	"name": "rishi-adf-oct2026",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2c3ea8ee-aacb-48e9-9e32-c185093534a0",
+		"tenantId": "c8cc3dc0-8baa-4c41-a389-659c5d19e507"
+	}
+}
